@@ -66,7 +66,7 @@ gitalk:
   clientSecret: 8726b3ccdf599c5887f02b7ae47284bf847bf6fe    #生成的clientSecret
   repo: Goldgen.github.io    #仓库名称
   owner: Goldgen    #github用户名
-  admin: Gilgameshlegend
+  admin: Goldgen
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
